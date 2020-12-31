@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Interested in Javascript, Acessibility, Kotlin and Rust.
+I'm Interested in Javascript, Web Acessibility(A11y), Kotlin and Rust.
 
 There's a lot of exciting things happening in the web space, but languages like Rust are also making systems programming easier to learn for those not in that particular field. 
 
