@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Interested in:
-- Javascript(mostly Preact, Svelte),
+- Javascript(mostly Preact, React and Svelte),
 - Web Acessibility(A11y), 
 - Kotlin,
 - Swift,
