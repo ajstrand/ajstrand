@@ -1,15 +1,13 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
 
 I'm Interested in:
-- Javascript(mostly Preact, React and Svelte),
-- Web Acessibility(A11y), 
+- Javascript(mostly Preact/React and Svelte),
+- Web Acessibility
 - Kotlin,
 - Swift,
 - Rust.
 
 There's a lot of exciting things happening in the web space, but languages like Rust are also making systems programming easier to learn for those not in that particular field.
-
- Pronouns: He/Him
 
 <!--
 **ajstrand/ajstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
