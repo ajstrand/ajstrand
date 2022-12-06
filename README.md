@@ -1,9 +1,9 @@
 ### Hi, I'm Alex 👋
 
 I'm Interested in:
-- Javascript(mostly Preact/React and Svelte),
+- Javascript(mostly Preact),
 - Web Acessibility
-- Kotlin,
+- Gleam,
 - Swift,
 - Rust.
 
