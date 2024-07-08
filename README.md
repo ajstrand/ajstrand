@@ -1,13 +1,13 @@
 ### Hi, I'm Alex 👋
 
 I'm Interested in:
-- Javascript(mostly Preact),
-- Web Acessibility
-- Gleam,
-- Swift,
-- Rust.
+- javascript,
+- web acessibility
+- Gren-lang(a fork of elm),
+- swift,
+- rust.
 
-There's a lot of exciting things happening in the web space, but languages like Rust are also making systems programming easier to learn for those not in that particular field.
+currently: redesigning my personal site
 
 <!--
 **ajstrand/ajstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
