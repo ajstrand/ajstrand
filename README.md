@@ -3,7 +3,7 @@
 I'm Interested in:
 - javascript,
 - web acessibility
-- Gren-lang(a fork of elm),
+- languages that compile to javascript
 - swift,
 - rust.
 
