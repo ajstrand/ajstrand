@@ -3,11 +3,10 @@
 I'm Interested in:
 - javascript,
 - web acessibility
-- languages that compile to javascript
 - swift,
 - rust.
 
-currently: redesigning my personal site
+currently: redesigning my personal site, trying to blog more/share what I've learned. 
 
 <!--
 **ajstrand/ajstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
